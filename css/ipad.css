@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/* navbar section */
+
+#navbar {
+    display: none;
+}
+
+#ham-navbar {
+    height: 20vh;
+    background-color: #2a77e3;
+}
+
+
+/* home section */
+
+#home h1 {
+    margin: 20px 20px 20px 111px;
+}
+
+#home p {
+    margin: 0px 50px;
+    padding: 0px 50px
+}
+
+
+/* services section */
+
+
+/* our project top  */
+
+
+/* project container  */
+
+
+/* our project bottom */
